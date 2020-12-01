@@ -2,7 +2,7 @@
 
 Dado el siguiente diagrama de clases
 
-![UML](Pregunta1.png)
+![UML](Pregunta3.png)
 
 implemente el siguiente método (y lo que se considere necesario) :
 

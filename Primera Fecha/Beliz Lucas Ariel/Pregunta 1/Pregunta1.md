@@ -15,12 +15,13 @@ Asuma que lo que aparece en el diagrama de UML ya está implementado.
 # Solución
 
 ```smalltalk
-Curso >> alumnosOrdenAlfabetico
-  ^ alumnos asSortedCollection: [:a1 :a2 | a1 nombreCompleto < a2 nombreCompleto]
+Curso>>alumnosOrdenAlfabetico
+    ^alumnos sorted: [ :a :b | a nombreCompleto <= b nombreCompleto ]
 ```
 
 # Corrección
 
-La solución es correcta. Como sugerencia, se podrían usar nombres más descriptivos para las variables temporales del bloque
+
+La solución es correcta
 
 Corrigió: Agustín Ortu

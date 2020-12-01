@@ -9,4 +9,4 @@
 | Balasini Joaquin              |               |  1/3  |
 | Barreto Felipe                |               |  2/3  |
 | BARROS BRUNO JAIR             |               |  2/3  |
-| Beliz Lucas Ariel             |               |       |
+| Beliz Lucas Ariel             |               |  1/3  |
