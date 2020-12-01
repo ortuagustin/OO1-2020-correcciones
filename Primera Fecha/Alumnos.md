@@ -6,7 +6,7 @@
 | Aquino Julian David           |               |  1/3  |
 | Archidiacono Luciano Ezequiel |               |  3/3  |
 | ASTRADA VANESA                |               |  1/3  |
-| Balasini Joaquin              |               |       |
+| Balasini Joaquin              |               |  1/3  |
 | Barreto Felipe                |               |       |
 | BARROS BRUNO JAIR             |               |       |
 | Beliz Lucas Ariel             |               |       |
