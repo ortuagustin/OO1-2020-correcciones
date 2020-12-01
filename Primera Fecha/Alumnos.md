@@ -8,5 +8,5 @@
 | ASTRADA VANESA                |               |  1/3  |
 | Balasini Joaquin              |               |  1/3  |
 | Barreto Felipe                |               |  2/3  |
-| BARROS BRUNO JAIR             |               |       |
+| BARROS BRUNO JAIR             |               |  2/3  |
 | Beliz Lucas Ariel             |               |       |
