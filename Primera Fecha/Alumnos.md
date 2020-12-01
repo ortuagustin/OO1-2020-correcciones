@@ -1,6 +1,6 @@
 | Alumno                        | Observaciones | Nota  |
 | ----------------------------- | ------------- | :---: |
-| Aguilar Garcia Diego Pablo    |               |       |
+| Aguilar Garcia Diego Pablo    |               |  1/3  |
 | ALBERDI ROMINA AYELEN         |               |       |
 | Amarillo Luján                |               |       |
 | Aquino Julian David           |               |       |
