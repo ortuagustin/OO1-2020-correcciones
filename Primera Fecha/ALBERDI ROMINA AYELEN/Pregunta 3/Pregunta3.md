@@ -7,22 +7,15 @@ Escriba los métodos necesarios para poder crear e inicializar una instancia de 
 # Solución
 
 ```smalltalk
-(Metodo de instancia)
+class >> newConFechaActualYItems: unosItems
 
-Factura>> initialize
-fecha:=Date today.
-items:=OrderedCollection new.
-___________________________________________________________________
-(Metodo de instancia)
+   ^ (self new) inicializarConFechaActualYItems: unosItems
 
-Factura>>nuevaFacturaConItems: unaColeccionDeItems
-items addAll: unaColeccionDeItems
-___________________________________________________________________
-(Metodo de clase)
 
-Class>> Factura>>nuevaFacturaConItems: unaColeccionDeItems
-^(self new) nuevaFacturaConItems: unaColeccionDeItems
-___________________________________________________________________
+>> inicializarConFechaActualYItems: unosItems
+
+    items := unosItems.
+    fecha := (Date today)
 ```
 
 # Corrección

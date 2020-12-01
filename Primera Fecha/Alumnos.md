@@ -4,7 +4,7 @@
 | ALBERDI ROMINA AYELEN         |               |  3/3  |
 | Amarillo Luján                |               |  1/3  |
 | Aquino Julian David           |               |  1/3  |
-| Archidiacono Luciano Ezequiel |               |       |
+| Archidiacono Luciano Ezequiel |               |  3/3  |
 | ASTRADA VANESA                |               |       |
 | Balasini Joaquin              |               |       |
 | Barreto Felipe                |               |       |
