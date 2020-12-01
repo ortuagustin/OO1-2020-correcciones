@@ -5,7 +5,7 @@
 | Amarillo Luján                |               |  1/3  |
 | Aquino Julian David           |               |  1/3  |
 | Archidiacono Luciano Ezequiel |               |  3/3  |
-| ASTRADA VANESA                |               |       |
+| ASTRADA VANESA                |               |  1/3  |
 | Balasini Joaquin              |               |       |
 | Barreto Felipe                |               |       |
 | BARROS BRUNO JAIR             |               |       |
