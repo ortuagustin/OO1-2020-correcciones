@@ -1,0 +1,12 @@
+| Alumno                           | Nota 1era fecha | Nota 2da fecha |
+| -------------------------------- | :-------------: | :------------: |
+| Acosta Katia Jezabel             |   DESAPROBADO   |       /3       |
+| Ajenjo Tobias Adrian             |   DESAPROBADO   |       /3       |
+| Alcaraz Claudio                  |     BLANCO      |       /3       |
+| Alcorta Facundo                  |     BLANCO      |       /3       |
+| ALONSO DIAZ MARIANO HUGO IGNACIO |   DESAPROBADO   |       /3       |
+| Alvarez Ignacio                  |   DESAPROBADO   |       /3       |
+| Álvarez Lugo Germán Ezequiel     |   DESAPROBADO   |       /3       |
+| ANDRES Pilar                     |     BLANCO      |       /3       |
+| ANTELO ALEJANDRO NICOLAS         |   DESAPROBADO   |       /3       |
+| ARANCHET CARINA ELIZABETH        |   DESAPROBADO   |       /3       |
