@@ -9,4 +9,4 @@
 | Álvarez Lugo Germán Ezequiel     |   DESAPROBADO   |      2/3       |
 | ANDRES Pilar                     |     BLANCO      |      2/3       |
 | ANTELO ALEJANDRO NICOLAS         |   DESAPROBADO   |      3/3       |
-| ARANCHET CARINA ELIZABETH        |   DESAPROBADO   |       /3       |
+| ARANCHET CARINA ELIZABETH        |   DESAPROBADO   |      1/3       |
