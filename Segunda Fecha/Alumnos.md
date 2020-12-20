@@ -2,7 +2,7 @@
 | -------------------------------- | :-------------: | :------------: |
 | Acosta Katia Jezabel             |   DESAPROBADO   |      1/3       |
 | Ajenjo Tobias Adrian             |   DESAPROBADO   |      2/3       |
-| Alcaraz Claudio                  |     BLANCO      |       /3       |
+| Alcaraz Claudio                  |     BLANCO      |      3/3       |
 | Alcorta Facundo                  |     BLANCO      |       /3       |
 | ALONSO DIAZ MARIANO HUGO IGNACIO |   DESAPROBADO   |       /3       |
 | Alvarez Ignacio                  |   DESAPROBADO   |       /3       |
