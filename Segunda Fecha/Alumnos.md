@@ -1,7 +1,7 @@
 | Alumno                           | Nota 1era fecha | Nota 2da fecha |
 | -------------------------------- | :-------------: | :------------: |
 | Acosta Katia Jezabel             |   DESAPROBADO   |      1/3       |
-| Ajenjo Tobias Adrian             |   DESAPROBADO   |       /3       |
+| Ajenjo Tobias Adrian             |   DESAPROBADO   |      2/3       |
 | Alcaraz Claudio                  |     BLANCO      |       /3       |
 | Alcorta Facundo                  |     BLANCO      |       /3       |
 | ALONSO DIAZ MARIANO HUGO IGNACIO |   DESAPROBADO   |       /3       |
